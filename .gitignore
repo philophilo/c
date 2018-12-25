@@ -10,3 +10,6 @@ beginner/7whileloop
 beginner/8dowhile
 beginner/9functions
 beginner/10structs
+advancedConcepts/syntax/1ternary
+advancedConcepts/syntax/2ternaryInPrint
+advancedConcepts/syntax/3nestedTernary
