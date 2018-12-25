@@ -58,4 +58,5 @@ int main(){
     printf("the factorial of 4 is %i\n", factorial(4));
     printf("factorialFor of 4 is %i\n", factorialFor(4));
     printf("factorialWhile of 4 is %i\n", factorialWhile(4));
+    return 0;
 }

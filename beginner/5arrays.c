@@ -19,4 +19,5 @@ int main()
 
     // print array of characters as string
     printf("%s\n", chars);
+    return 0;
 }
