@@ -16,3 +16,7 @@ advancedConcepts/1syntax/3nestedTernary
 advancedConcepts/2mainFunction/1arguments
 advancedConcepts/2mainFunction/2stringArguments
 advancedConcepts/3externalVariables/1externalVariables.o
+advancedConcepts/4typeCasting/1castFloat.o
+advancedConcepts/4typeCasting/2castAbs.o
+advancedConcepts/4typeCasting/3castUnsigned.o
+advancedConcepts/4typeCasting/4castMalloc.o
