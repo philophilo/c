@@ -22,3 +22,6 @@ advancedConcepts/4typeCasting/3castUnsigned.o
 advancedConcepts/4typeCasting/4castMalloc.o
 advancedConcepts/5staticVariables/2complexData.o
 advancedConcepts/5staticVariables/1static.o
+advancedConcepts/6sorting/1bubbleSort.o
+advancedConcepts/6sorting/2bubbleSortPrint.o
+advancedConcepts/6sorting/3quickSort.o
