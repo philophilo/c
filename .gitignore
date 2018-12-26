@@ -20,3 +20,5 @@ advancedConcepts/4typeCasting/1castFloat.o
 advancedConcepts/4typeCasting/2castAbs.o
 advancedConcepts/4typeCasting/3castUnsigned.o
 advancedConcepts/4typeCasting/4castMalloc.o
+advancedConcepts/5staticVariables/2complexData.o
+advancedConcepts/5staticVariables/1static.o
