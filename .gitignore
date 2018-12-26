@@ -25,3 +25,6 @@ advancedConcepts/5staticVariables/1static.o
 advancedConcepts/6sorting/1bubbleSort.o
 advancedConcepts/6sorting/2bubbleSortPrint.o
 advancedConcepts/6sorting/3quickSort.o
+advancedConcepts/7pointers/1ampersand.o
+advancedConcepts/7pointers/2ampersandBehaviour.o
+advancedConcepts/7pointers/3mainpulatingPointers.o
