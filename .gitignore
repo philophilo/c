@@ -28,3 +28,4 @@ advancedConcepts/6sorting/3quickSort.o
 advancedConcepts/7pointers/1ampersand.o
 advancedConcepts/7pointers/2ampersandBehaviour.o
 advancedConcepts/7pointers/3mainpulatingPointers.o
+advancedPointers/*.o
